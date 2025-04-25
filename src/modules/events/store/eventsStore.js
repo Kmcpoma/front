@@ -37,7 +37,7 @@ export const useEventsStore = defineStore('events', {
       await deleteEvent(id)
       this.events = this.events.filter((event) => event.id !== id)
       this.applyFilters()
-    },
+    }, //me falta completaro codigo
 
     // Aplicar filtros
     applyFilters() {
