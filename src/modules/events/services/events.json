@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Taller de Historia Boliviana",
+    "details": {
+      "type": "Social",
+      "description": "Conferencia y debate sobre los 200 años de independencia.",
+      "organizer": "Rosio Peralta",
+      "location": "Casa de la Cultura, La Paz",
+      "modality": "Presencial",
+      "audience": "Público general",
+      "speaker": "Dr. Juan Pérez",
+      "sponsor": "Gobierno Autónomo"
+    },
+    "dateTime": {
+      "startDate": "2025-04-28",
+      "startTime": "23:00",
+      "endDate": "2025-04-28",
+      "endTime": "23:30"
+    },
+    "status": "Aprobado"
+  },
+  {
+    "id": 2,
+    "name": "Caminata por la Unidad Nacional",
+    "details": {
+      "type": "Social",
+      "description": "Recorrido simbólico desde Sucre hasta Chuquisaca. Participación abierta al público.",
+      "organizer": "Rosio Peralta",
+      "location": "Sucre - Chuquisaca",
+      "modality": "Presencial",
+      "audience": "Público general",
+      "speaker": "N/A",
+      "sponsor": "Municipalidad de Sucre"
+    },
+    "dateTime": {
+      "startDate": "2025-05-09",
+      "startTime": "13:00",
+      "endDate": "2025-05-09",
+      "endTime": "15:00"
+    },
+    "status": "Aprobado"
+  },
+  {
+    "id": 3,
+    "name": "Festival Folklórico del Bicentenario",
+    "details": {
+      "type": "Cultural",
+      "description": "Presentación de danzas típicas de los 9 departamentos.",
+      "organizer": "Rosio Peralta",
+      "location": "Estadio Hernando Siles, La Paz",
+      "modality": "Presencial",
+      "audience": "Público general",
+      "speaker": "N/A",
+      "sponsor": "Ministerio de Cultura"
+    },
+    "dateTime": {
+      "startDate": "2025-05-15",
+      "startTime": "18:00",
+      "endDate": "2025-05-15",
+      "endTime": "21:00"
+    },
+    "status": "Aprobado"
+  },
+  {
+    "id": 4,
+    "name": "Exposición Arte y Libertad",
+    "details": {
+      "type": "Cultural",
+      "description": "Muestra de pinturas coloniales y contemporáneas.",
+      "organizer": "Rosio Peralta",
+      "location": "Museo Nacional de Arte, La Paz",
+      "modality": "Presencial",
+      "audience": "Estudiantes y artistas",
+      "speaker": "Prof. María Gómez",
+      "sponsor": "Galería Nacional"
+    },
+    "dateTime": {
+      "startDate": "2025-05-05",
+      "startTime": "10:00",
+      "endDate": "2025-05-05",
+      "endTime": "12:00"
+    },
+    "status": "Aprobado"
+  },
+  {
+    "id": 5,
+    "name": "Feria de la Cocina Boliviana",
+    "details": {
+      "type": "Gastronómico",
+      "description": "Degustación de platos típicos como la sajta, el silpancho y el sonso.",
+      "organizer": "Rosio Peralta",
+      "location": "Plaza Mayor, Santa Cruz",
+      "modality": "Presencial",
+      "audience": "Público general",
+      "speaker": "Chef Carlos Vargas",
+      "sponsor": "Gastronomía Boliviana S.A."
+    },
+    "dateTime": {
+      "startDate": "2025-04-28",
+      "startTime": "12:00",
+      "endDate": "2025-04-28",
+      "endTime": "15:00"
+    },
+    "status": "Aprobado"
+  },
+  {
+    "id": 6,
+    "name": "Concurso El mejor Plato Bicentenario",
+    "details": {
+      "type": "Gastronómico",
+      "description": "Chefs competirán reinventando recetas tradicionales.",
+      "organizer": "Rosio Peralta",
+      "location": "Centro de Convenciones, La Paz",
+      "modality": "Presencial",
+      "audience": "Público general",
+      "speaker": "Chef Ana López",
+      "sponsor": "Gobierno Autónomo"
+    },
+    "dateTime": {
+      "startDate": "2025-06-22",
+      "startTime": "15:00",
+      "endDate": "2025-06-22",
+      "endTime": "18:00"
+    },
+    "status": "Aprobado"
+  },
+  {
+    "id": 7,
+    "name": "Maratón 200KM por la Patria",
+    "details": {
+      "type": "Deportivo",
+      "description": "Carrera simbólica en equipos, representando cada departamento.",
+      "organizer": "Rosio Peralta",
+      "location": "Ruta Nacional, La Paz",
+      "modality": "Presencial",
+      "audience": "Atletas",
+      "speaker": "N/A",
+      "sponsor": "Federación de Atletismo"
+    },
+    "dateTime": {
+      "startDate": "2025-05-30",
+      "startTime": "08:00",
+      "endDate": "2025-05-30",
+      "endTime": "12:00"
+    },
+    "status": "Aprobado"
+  },
+  {
+    "id": 8,
+    "name": "Torneo de Fútbol Interdepartamental",
+    "details": {
+      "type": "Deportivo",
+      "description": "Competencia entre selecciones regionales.",
+      "organizer": "Rosio Peralta",
+      "location": "Estadio Tahuichi, Santa Cruz",
+      "modality": "Presencial",
+      "audience": "Público general",
+      "speaker": "N/A",
+      "sponsor": "Federación Boliviana de Fútbol"
+    },
+    "dateTime": {
+      "startDate": "2025-06-11",
+      "startTime": "16:00",
+      "endDate": "2025-06-11",
+      "endTime": "18:00"
+    },
+    "status": "Aprobado"
+  }
+]

@@ -1,0 +1,18 @@
+desacoplar /router/index.js en varios archivos por cada view
+crear base de datos en storage con nombres campos iguales a las tablas sacado de la api rest.
+luego poblar el storage con usuarios, roles y permisos (construir json completo) 5 registros
+2 poblar el storage con eventos y agenda (json) 5 registros
+3 añadir recaptcha v2 
+Usa esta clave de sitio web en el código HTML que tu sitio web sirve a los usuarios.
+6LeqZB4rAAAAAKfZq03NmpV4IrnhWzZ0zvIcrZHi
+Usa esta clave secreta para la comunicación entre tu sitio web y el servicio reCAPTCHA.
+6LeqZB4rAAAAAOzs4f75g63LXBNLlmHH1dFzO8Z7
+de momento con reCAPTCHA el registro, login
+refactorizar codigo donde se usa tablas o enum.
+organizar views en publics y privates
+crear componentes/layout de header footer y menu
+headerPublic, headerPrivate, footerAll, menuPrivate menuPublic
+layouts dashboard, registro, inicio sesion, public.vue,
+views public usan layouts/public
+dashboard usa layouts/dashboard
+
