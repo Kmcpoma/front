@@ -20,7 +20,7 @@ export const useEventsStore = defineStore('events', {
     async addEvent(event) {
       const newEvent = await saveEvent(event)
       this.events.push(newEvent)
-      this.applyFilters()
+      this.applyFilters() //hola soy un cambio
     },
 
     // Actualizar un evento existente
