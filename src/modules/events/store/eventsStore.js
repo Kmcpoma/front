@@ -22,7 +22,6 @@ export const useEventsStore = defineStore('events', {
       this.events.push(newEvent)
       this.applyFilters() //hola soy un cambio
     },
-
     // Actualizar un evento existente
     async updateEvent(id, updatedEvent) {
       const updated = await updateEvent(id, updatedEvent)
